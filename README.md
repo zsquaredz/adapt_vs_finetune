@@ -128,5 +128,17 @@ python code/run_mBART_adapters.py \
 We use ROUGE score as the evaluation metric. The default ROUGE package we use in our code is [this one](https://github.com/huggingface/datasets/blob/main/metrics/rouge/rouge.py). With this package, we evaluated Chinese and Japanese on char-level. Since the original ROUGE is intended for English texts, we recommend using [this repo](https://github.com/csebuetnlp/xl-sum/tree/master/multilingual_rouge_scoring) for multilingual ROUGE evaluation. For more details, please refer to Sec 3.3 of the paper. 
 ## Citation
 ```
-coming soon
+@inproceedings{zhao-chen-2022-adapt,
+    title = "To Adapt or to Fine-tune: A Case Study on Abstractive Summarization",
+    author = "Zhao, Zheng  and
+      Chen, Pinzhen",
+    booktitle = "Proceedings of the 21st Chinese National Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Nanchang, China",
+    publisher = "Chinese Information Processing Society of China",
+    url = "https://aclanthology.org/2022.ccl-1.73",
+    pages = "824--835",
+    language = "English",
+}
 ```
