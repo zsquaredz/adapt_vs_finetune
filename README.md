@@ -1,5 +1,5 @@
 # To Adapt or to Fine-tune: A Case Study on Abstractive Summarization
-This repository contains code for paper "[To Adapt or to Fine-tune: A Case Study on Abstractive Summarization](https://arxiv.org/abs/2208.14559)" which appears in 2022 Chinese National Conference on Computational Linguistics (CCL).
+This repository contains code for paper "[To Adapt or to Fine-tune: A Case Study on Abstractive Summarization](https://aclanthology.org/2022.ccl-1.73/)" which appears in 2022 Chinese National Conference on Computational Linguistics (CCL).
 
 ## Required Packages
 To install required packages, run the following command:
